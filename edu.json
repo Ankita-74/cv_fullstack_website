@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "education": "Btech",
+        "passing_year": 2026,
+        "percentage": 85,
+        "college_board": "Marwadi University"
+    },
+    {
+        "id": 2,
+        "education": "HSC",
+        "passing_year": 2022,
+        "percentage": 86,
+        "college_board": "Orpat Girls School"
+    },
+    {
+        "id": 3,
+        "education": "SSC",
+        "passing_year": 2020,
+        "percentage": 80,
+        "college_board": "Orpat Girls School"
+    }
+]

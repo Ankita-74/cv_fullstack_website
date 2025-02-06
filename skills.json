@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "HTML",
+        "description": "Front-end markup language",
+        "image": "image/html.png"
+    },
+    {
+        "id": 2,
+        "name": "JavaScript",
+        "description": "JavaScript programming language",
+        "image": "image/js.png"
+    }
+    ,
+    {
+        "id": 3,
+        "name": "C ++",
+        "description": "CPP LANUGUAGE",
+        "image": "image/cpp.png"
+    }
+]
